@@ -118,6 +118,7 @@ Além disso, nomes descritivos podem tornar o código mais legível e compreens�
 No programa, a herança pode ser aplicada de várias maneiras. Por exemplo, é possível criar uma classe de pagamento genérica e, em seguida, criar classes específicas de pagamento que herdam as características da classe de pagamento genérica, mas também adicionam recursos específicos para cada tipo de pagamento. Dessa forma, o código pode ser reutilizado e simplificado, tornando o desenvolvimento mais eficiente e eficaz.
 
 26. Como é possível utilizar a sobrecarga de métodos no programa?
+>Um dos conceitos mais usados do paradigma de objetos é o polimorfismo, que promove a reutilização contínua dos códigos, ou seja, possibilita algo assumir várias formas. No contexto da programação orientada a objetos, ele nos mostra como um método pode assumir formas diferentes das quais foram adotadas inicialmente e agir de modo que possa ser utilizado por outra classe.
 
 
 
